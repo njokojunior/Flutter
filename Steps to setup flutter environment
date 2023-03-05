@@ -1,4 +1,4 @@
-Good morning. To all those facing problems when typing <<flutter doctor>> here is how i fixed mine. 
+To all those have "android toolchain" errors when typing <<flutter doctor>> in cmd, here is how i fixed mine. 
 1- download the latest version of java jdk and install it. download_link: https://download.oracle.com/java/19/latest/jdk-19_windows-x64_bin.exe 
 2- copy jdk path. i.e My PC> local disk (c)>program files> java>jdk-19 get the path in the navigation menu at the top
  //C:\Program Files\Java\jdk-19 this is how my path looks like
