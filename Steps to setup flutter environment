@@ -1,5 +1,5 @@
 Good morning. To all those facing problems when typing <<flutter doctor>> here is how i fixed mine. 
-1- download the latest version of java jdk and install it. link: https://download.oracle.com/java/19/latest/jdk-19_windows-x64_bin.exe 
+1- download the latest version of java jdk and install it. download_link: https://download.oracle.com/java/19/latest/jdk-19_windows-x64_bin.exe 
 2- copy jdk path. i.e My PC> local disk (c)>program files> java>jdk-19 get the path in the navigation menu at the top
  //C:\Program Files\Java\jdk-19 this is how my path looks like
 3- press window key and type environment in the windows search bar, select edit system environment.....
