@@ -1,0 +1,10 @@
+Good morning. To all those facing problems when typing <<flutter doctor>> here is how i fixed mine. 
+1- download the latest version of java jdk and install it.you will found it below
+2- copy jdk path. i.e My PC> local disk (c)>program files> java>jdk-19 get the path in the navigation menu at the top
+ //C:\Program Files\Java\jdk-19 this is how my path looks like
+3- press window key and type environment in the windows search bar, select edit system environment.....
+4- Click on environment variables 
+5- create new a variable name called <<JAVA_HOME>> and paste your path were it is written <<variable value>>
+6- when done press ok until you fully exit the sytem environment
+7- open back your command line and type back <<flutter doctor>>. If ok, it will ask for licence
+8- type <<flutter doctor --android-licenses>> to install the licence, then you will be required to input either y or n, enter y and press enter until it says istallation successful
